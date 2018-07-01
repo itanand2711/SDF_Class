@@ -1,0 +1,10 @@
+C:\Users\apatel\source\repos\ifesleif\ifesleif\bin\Debug\netcoreapp2.0\ifesleif.deps.json
+C:\Users\apatel\source\repos\ifesleif\ifesleif\bin\Debug\netcoreapp2.0\ifesleif.runtimeconfig.json
+C:\Users\apatel\source\repos\ifesleif\ifesleif\bin\Debug\netcoreapp2.0\ifesleif.runtimeconfig.dev.json
+C:\Users\apatel\source\repos\ifesleif\ifesleif\bin\Debug\netcoreapp2.0\ifesleif.dll
+C:\Users\apatel\source\repos\ifesleif\ifesleif\bin\Debug\netcoreapp2.0\ifesleif.pdb
+C:\Users\apatel\source\repos\ifesleif\ifesleif\obj\Debug\netcoreapp2.0\ifesleif.csproj.CoreCompileInputs.cache
+C:\Users\apatel\source\repos\ifesleif\ifesleif\obj\Debug\netcoreapp2.0\ifesleif.AssemblyInfoInputs.cache
+C:\Users\apatel\source\repos\ifesleif\ifesleif\obj\Debug\netcoreapp2.0\ifesleif.AssemblyInfo.cs
+C:\Users\apatel\source\repos\ifesleif\ifesleif\obj\Debug\netcoreapp2.0\ifesleif.dll
+C:\Users\apatel\source\repos\ifesleif\ifesleif\obj\Debug\netcoreapp2.0\ifesleif.pdb

@@ -1,0 +1,10 @@
+C:\Users\apatel\source\repos\ifelsestatement\ifelsestatement\bin\Debug\netcoreapp2.0\ifelsestatement.deps.json
+C:\Users\apatel\source\repos\ifelsestatement\ifelsestatement\bin\Debug\netcoreapp2.0\ifelsestatement.runtimeconfig.json
+C:\Users\apatel\source\repos\ifelsestatement\ifelsestatement\bin\Debug\netcoreapp2.0\ifelsestatement.runtimeconfig.dev.json
+C:\Users\apatel\source\repos\ifelsestatement\ifelsestatement\bin\Debug\netcoreapp2.0\ifelsestatement.dll
+C:\Users\apatel\source\repos\ifelsestatement\ifelsestatement\bin\Debug\netcoreapp2.0\ifelsestatement.pdb
+C:\Users\apatel\source\repos\ifelsestatement\ifelsestatement\obj\Debug\netcoreapp2.0\ifelsestatement.csproj.CoreCompileInputs.cache
+C:\Users\apatel\source\repos\ifelsestatement\ifelsestatement\obj\Debug\netcoreapp2.0\ifelsestatement.AssemblyInfoInputs.cache
+C:\Users\apatel\source\repos\ifelsestatement\ifelsestatement\obj\Debug\netcoreapp2.0\ifelsestatement.AssemblyInfo.cs
+C:\Users\apatel\source\repos\ifelsestatement\ifelsestatement\obj\Debug\netcoreapp2.0\ifelsestatement.dll
+C:\Users\apatel\source\repos\ifelsestatement\ifelsestatement\obj\Debug\netcoreapp2.0\ifelsestatement.pdb

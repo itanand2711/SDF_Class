@@ -1,0 +1,11 @@
+C:\Users\apatel\source\repos\VariableString\VariableString\bin\Debug\netcoreapp2.0\VariableString.deps.json
+C:\Users\apatel\source\repos\VariableString\VariableString\bin\Debug\netcoreapp2.0\VariableString.runtimeconfig.json
+C:\Users\apatel\source\repos\VariableString\VariableString\bin\Debug\netcoreapp2.0\VariableString.runtimeconfig.dev.json
+C:\Users\apatel\source\repos\VariableString\VariableString\bin\Debug\netcoreapp2.0\VariableString.dll
+C:\Users\apatel\source\repos\VariableString\VariableString\bin\Debug\netcoreapp2.0\VariableString.pdb
+C:\Users\apatel\source\repos\VariableString\VariableString\obj\Debug\netcoreapp2.0\VariableString.csprojResolveAssemblyReference.cache
+C:\Users\apatel\source\repos\VariableString\VariableString\obj\Debug\netcoreapp2.0\VariableString.csproj.CoreCompileInputs.cache
+C:\Users\apatel\source\repos\VariableString\VariableString\obj\Debug\netcoreapp2.0\VariableString.AssemblyInfoInputs.cache
+C:\Users\apatel\source\repos\VariableString\VariableString\obj\Debug\netcoreapp2.0\VariableString.AssemblyInfo.cs
+C:\Users\apatel\source\repos\VariableString\VariableString\obj\Debug\netcoreapp2.0\VariableString.dll
+C:\Users\apatel\source\repos\VariableString\VariableString\obj\Debug\netcoreapp2.0\VariableString.pdb

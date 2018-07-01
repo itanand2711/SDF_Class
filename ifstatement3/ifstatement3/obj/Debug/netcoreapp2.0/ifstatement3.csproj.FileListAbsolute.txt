@@ -1,0 +1,11 @@
+C:\Users\apatel\source\repos\ifstatement3\ifstatement3\bin\Debug\netcoreapp2.0\ifstatement3.deps.json
+C:\Users\apatel\source\repos\ifstatement3\ifstatement3\bin\Debug\netcoreapp2.0\ifstatement3.runtimeconfig.json
+C:\Users\apatel\source\repos\ifstatement3\ifstatement3\bin\Debug\netcoreapp2.0\ifstatement3.runtimeconfig.dev.json
+C:\Users\apatel\source\repos\ifstatement3\ifstatement3\bin\Debug\netcoreapp2.0\ifstatement3.dll
+C:\Users\apatel\source\repos\ifstatement3\ifstatement3\bin\Debug\netcoreapp2.0\ifstatement3.pdb
+C:\Users\apatel\source\repos\ifstatement3\ifstatement3\obj\Debug\netcoreapp2.0\ifstatement3.csprojResolveAssemblyReference.cache
+C:\Users\apatel\source\repos\ifstatement3\ifstatement3\obj\Debug\netcoreapp2.0\ifstatement3.csproj.CoreCompileInputs.cache
+C:\Users\apatel\source\repos\ifstatement3\ifstatement3\obj\Debug\netcoreapp2.0\ifstatement3.AssemblyInfoInputs.cache
+C:\Users\apatel\source\repos\ifstatement3\ifstatement3\obj\Debug\netcoreapp2.0\ifstatement3.AssemblyInfo.cs
+C:\Users\apatel\source\repos\ifstatement3\ifstatement3\obj\Debug\netcoreapp2.0\ifstatement3.dll
+C:\Users\apatel\source\repos\ifstatement3\ifstatement3\obj\Debug\netcoreapp2.0\ifstatement3.pdb

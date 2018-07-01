@@ -1,0 +1,11 @@
+C:\Users\apatel\source\repos\Helloworld2\Helloworld2\bin\Debug\netcoreapp2.0\Helloworld2.deps.json
+C:\Users\apatel\source\repos\Helloworld2\Helloworld2\bin\Debug\netcoreapp2.0\Helloworld2.runtimeconfig.json
+C:\Users\apatel\source\repos\Helloworld2\Helloworld2\bin\Debug\netcoreapp2.0\Helloworld2.runtimeconfig.dev.json
+C:\Users\apatel\source\repos\Helloworld2\Helloworld2\bin\Debug\netcoreapp2.0\Helloworld2.dll
+C:\Users\apatel\source\repos\Helloworld2\Helloworld2\bin\Debug\netcoreapp2.0\Helloworld2.pdb
+C:\Users\apatel\source\repos\Helloworld2\Helloworld2\obj\Debug\netcoreapp2.0\Helloworld2.csprojResolveAssemblyReference.cache
+C:\Users\apatel\source\repos\Helloworld2\Helloworld2\obj\Debug\netcoreapp2.0\Helloworld2.csproj.CoreCompileInputs.cache
+C:\Users\apatel\source\repos\Helloworld2\Helloworld2\obj\Debug\netcoreapp2.0\Helloworld2.AssemblyInfoInputs.cache
+C:\Users\apatel\source\repos\Helloworld2\Helloworld2\obj\Debug\netcoreapp2.0\Helloworld2.AssemblyInfo.cs
+C:\Users\apatel\source\repos\Helloworld2\Helloworld2\obj\Debug\netcoreapp2.0\Helloworld2.dll
+C:\Users\apatel\source\repos\Helloworld2\Helloworld2\obj\Debug\netcoreapp2.0\Helloworld2.pdb

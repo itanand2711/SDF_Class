@@ -1,0 +1,10 @@
+C:\Users\apatel\source\repos\Array2\Array2\bin\Debug\netcoreapp1.1\Array2.deps.json
+C:\Users\apatel\source\repos\Array2\Array2\bin\Debug\netcoreapp1.1\Array2.runtimeconfig.json
+C:\Users\apatel\source\repos\Array2\Array2\bin\Debug\netcoreapp1.1\Array2.runtimeconfig.dev.json
+C:\Users\apatel\source\repos\Array2\Array2\bin\Debug\netcoreapp1.1\Array2.dll
+C:\Users\apatel\source\repos\Array2\Array2\bin\Debug\netcoreapp1.1\Array2.pdb
+C:\Users\apatel\source\repos\Array2\Array2\obj\Debug\netcoreapp1.1\Array2.csprojResolveAssemblyReference.cache
+C:\Users\apatel\source\repos\Array2\Array2\obj\Debug\netcoreapp1.1\Array2.csproj.CoreCompileInputs.cache
+C:\Users\apatel\source\repos\Array2\Array2\obj\Debug\netcoreapp1.1\Array2.AssemblyInfo.cs
+C:\Users\apatel\source\repos\Array2\Array2\obj\Debug\netcoreapp1.1\Array2.dll
+C:\Users\apatel\source\repos\Array2\Array2\obj\Debug\netcoreapp1.1\Array2.pdb

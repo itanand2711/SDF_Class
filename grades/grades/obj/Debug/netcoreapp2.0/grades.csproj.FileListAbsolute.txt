@@ -1,0 +1,11 @@
+C:\Users\apatel\source\repos\grades\grades\bin\Debug\netcoreapp2.0\grades.deps.json
+C:\Users\apatel\source\repos\grades\grades\bin\Debug\netcoreapp2.0\grades.runtimeconfig.json
+C:\Users\apatel\source\repos\grades\grades\bin\Debug\netcoreapp2.0\grades.runtimeconfig.dev.json
+C:\Users\apatel\source\repos\grades\grades\bin\Debug\netcoreapp2.0\grades.dll
+C:\Users\apatel\source\repos\grades\grades\bin\Debug\netcoreapp2.0\grades.pdb
+C:\Users\apatel\source\repos\grades\grades\obj\Debug\netcoreapp2.0\grades.csprojResolveAssemblyReference.cache
+C:\Users\apatel\source\repos\grades\grades\obj\Debug\netcoreapp2.0\grades.csproj.CoreCompileInputs.cache
+C:\Users\apatel\source\repos\grades\grades\obj\Debug\netcoreapp2.0\grades.AssemblyInfoInputs.cache
+C:\Users\apatel\source\repos\grades\grades\obj\Debug\netcoreapp2.0\grades.AssemblyInfo.cs
+C:\Users\apatel\source\repos\grades\grades\obj\Debug\netcoreapp2.0\grades.dll
+C:\Users\apatel\source\repos\grades\grades\obj\Debug\netcoreapp2.0\grades.pdb

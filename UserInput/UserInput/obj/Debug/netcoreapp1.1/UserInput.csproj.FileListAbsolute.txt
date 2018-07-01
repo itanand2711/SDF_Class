@@ -1,0 +1,10 @@
+C:\Users\apatel\source\repos\UserInput\UserInput\bin\Debug\netcoreapp1.1\UserInput.deps.json
+C:\Users\apatel\source\repos\UserInput\UserInput\bin\Debug\netcoreapp1.1\UserInput.runtimeconfig.json
+C:\Users\apatel\source\repos\UserInput\UserInput\bin\Debug\netcoreapp1.1\UserInput.runtimeconfig.dev.json
+C:\Users\apatel\source\repos\UserInput\UserInput\bin\Debug\netcoreapp1.1\UserInput.dll
+C:\Users\apatel\source\repos\UserInput\UserInput\bin\Debug\netcoreapp1.1\UserInput.pdb
+C:\Users\apatel\source\repos\UserInput\UserInput\obj\Debug\netcoreapp1.1\UserInput.csproj.CoreCompileInputs.cache
+C:\Users\apatel\source\repos\UserInput\UserInput\obj\Debug\netcoreapp1.1\UserInput.AssemblyInfo.cs
+C:\Users\apatel\source\repos\UserInput\UserInput\obj\Debug\netcoreapp1.1\UserInput.dll
+C:\Users\apatel\source\repos\UserInput\UserInput\obj\Debug\netcoreapp1.1\UserInput.pdb
+C:\Users\apatel\source\repos\UserInput\UserInput\obj\Debug\netcoreapp1.1\UserInput.csprojResolveAssemblyReference.cache

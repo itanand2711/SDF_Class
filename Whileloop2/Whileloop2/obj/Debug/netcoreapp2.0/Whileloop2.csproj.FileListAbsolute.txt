@@ -1,0 +1,10 @@
+c:\users\apatel\source\repos\Whileloop2\Whileloop2\bin\Debug\netcoreapp2.0\Whileloop2.deps.json
+c:\users\apatel\source\repos\Whileloop2\Whileloop2\bin\Debug\netcoreapp2.0\Whileloop2.runtimeconfig.json
+c:\users\apatel\source\repos\Whileloop2\Whileloop2\bin\Debug\netcoreapp2.0\Whileloop2.runtimeconfig.dev.json
+c:\users\apatel\source\repos\Whileloop2\Whileloop2\bin\Debug\netcoreapp2.0\Whileloop2.dll
+c:\users\apatel\source\repos\Whileloop2\Whileloop2\bin\Debug\netcoreapp2.0\Whileloop2.pdb
+c:\users\apatel\source\repos\Whileloop2\Whileloop2\obj\Debug\netcoreapp2.0\Whileloop2.csproj.CoreCompileInputs.cache
+c:\users\apatel\source\repos\Whileloop2\Whileloop2\obj\Debug\netcoreapp2.0\Whileloop2.AssemblyInfoInputs.cache
+c:\users\apatel\source\repos\Whileloop2\Whileloop2\obj\Debug\netcoreapp2.0\Whileloop2.AssemblyInfo.cs
+c:\users\apatel\source\repos\Whileloop2\Whileloop2\obj\Debug\netcoreapp2.0\Whileloop2.dll
+c:\users\apatel\source\repos\Whileloop2\Whileloop2\obj\Debug\netcoreapp2.0\Whileloop2.pdb

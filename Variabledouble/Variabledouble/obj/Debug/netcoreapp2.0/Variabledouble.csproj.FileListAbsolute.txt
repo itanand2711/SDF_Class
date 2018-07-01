@@ -1,0 +1,11 @@
+C:\Users\apatel\source\repos\Variabledouble\Variabledouble\bin\Debug\netcoreapp2.0\Variabledouble.deps.json
+C:\Users\apatel\source\repos\Variabledouble\Variabledouble\bin\Debug\netcoreapp2.0\Variabledouble.runtimeconfig.json
+C:\Users\apatel\source\repos\Variabledouble\Variabledouble\bin\Debug\netcoreapp2.0\Variabledouble.runtimeconfig.dev.json
+C:\Users\apatel\source\repos\Variabledouble\Variabledouble\bin\Debug\netcoreapp2.0\Variabledouble.dll
+C:\Users\apatel\source\repos\Variabledouble\Variabledouble\bin\Debug\netcoreapp2.0\Variabledouble.pdb
+C:\Users\apatel\source\repos\Variabledouble\Variabledouble\obj\Debug\netcoreapp2.0\Variabledouble.csprojResolveAssemblyReference.cache
+C:\Users\apatel\source\repos\Variabledouble\Variabledouble\obj\Debug\netcoreapp2.0\Variabledouble.csproj.CoreCompileInputs.cache
+C:\Users\apatel\source\repos\Variabledouble\Variabledouble\obj\Debug\netcoreapp2.0\Variabledouble.AssemblyInfoInputs.cache
+C:\Users\apatel\source\repos\Variabledouble\Variabledouble\obj\Debug\netcoreapp2.0\Variabledouble.AssemblyInfo.cs
+C:\Users\apatel\source\repos\Variabledouble\Variabledouble\obj\Debug\netcoreapp2.0\Variabledouble.dll
+C:\Users\apatel\source\repos\Variabledouble\Variabledouble\obj\Debug\netcoreapp2.0\Variabledouble.pdb

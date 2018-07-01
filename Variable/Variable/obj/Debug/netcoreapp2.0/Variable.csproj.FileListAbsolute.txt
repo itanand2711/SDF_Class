@@ -1,0 +1,11 @@
+C:\Users\apatel\source\repos\Variable\Variable\bin\Debug\netcoreapp2.0\Variable.deps.json
+C:\Users\apatel\source\repos\Variable\Variable\bin\Debug\netcoreapp2.0\Variable.runtimeconfig.json
+C:\Users\apatel\source\repos\Variable\Variable\bin\Debug\netcoreapp2.0\Variable.runtimeconfig.dev.json
+C:\Users\apatel\source\repos\Variable\Variable\bin\Debug\netcoreapp2.0\Variable.dll
+C:\Users\apatel\source\repos\Variable\Variable\bin\Debug\netcoreapp2.0\Variable.pdb
+C:\Users\apatel\source\repos\Variable\Variable\obj\Debug\netcoreapp2.0\Variable.csprojResolveAssemblyReference.cache
+C:\Users\apatel\source\repos\Variable\Variable\obj\Debug\netcoreapp2.0\Variable.csproj.CoreCompileInputs.cache
+C:\Users\apatel\source\repos\Variable\Variable\obj\Debug\netcoreapp2.0\Variable.AssemblyInfoInputs.cache
+C:\Users\apatel\source\repos\Variable\Variable\obj\Debug\netcoreapp2.0\Variable.AssemblyInfo.cs
+C:\Users\apatel\source\repos\Variable\Variable\obj\Debug\netcoreapp2.0\Variable.dll
+C:\Users\apatel\source\repos\Variable\Variable\obj\Debug\netcoreapp2.0\Variable.pdb
